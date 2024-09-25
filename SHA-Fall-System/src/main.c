@@ -3,7 +3,7 @@
 * File:		main.c
 * 
 * Contributers:
-* - ½Å½Â¸®
+* - ï¿½Å½Â¸ï¿½
 * 
 * Date:
 * Created:			Sep 25, 2024
@@ -11,9 +11,9 @@
 */
 
 #include "../inc/commands.h"
-
-// ÇÁ·Î±×·¥ÀÇ entrypoint
+#include <stdio.h>
+// ï¿½ï¿½ï¿½Î±×·ï¿½ï¿½ï¿½ entrypoint
 int wmain(void)
 {
-	
+	ads
 }
