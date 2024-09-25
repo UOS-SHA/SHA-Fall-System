@@ -15,5 +15,12 @@
 // ���α׷��� entrypoint
 int wmain(void)
 {
-	ads
+	123
+    123
+    123
+    12
+    3123
+    123
+    s
+
 }
