@@ -24,6 +24,7 @@
     <ProjectGuid>{eda74ee6-b401-4d30-a000-bae45ca7d41b}</ProjectGuid>
     <RootNamespace>SHAFallSystem</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>SHA_Cmd</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
